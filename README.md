@@ -14,5 +14,13 @@ This is a personal website showcasing my portfolio, skills, and contact informat
 - JavaScript
 - Flask (for backend applications)
 
-## Installation
-To run this project locally, follow these steps:
+## Home
+"C:\Users\hanee\OneDrive\Pictures\Screenshots\Screenshot (355).png"
+## Services
+"C:\Users\hanee\OneDrive\Pictures\Screenshots\Screenshot (356).png"
+## Projects
+"C:\Users\hanee\OneDrive\Pictures\Screenshots\Screenshot (357).png"
+## About
+"C:\Users\hanee\OneDrive\Pictures\Screenshots\Screenshot (358).png"
+## Contact
+"C:\Users\hanee\OneDrive\Pictures\Screenshots\Screenshot (359).png"
